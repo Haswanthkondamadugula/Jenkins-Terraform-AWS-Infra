@@ -1,6 +1,7 @@
 # 🚀 Jenkins-Terraform-AWS-Infra  
 
-![Jenkins-Terraform-AWS-Infra](https://imgur.com/KpAMkcF.png)  
+![image](https://github.com/user-attachments/assets/0e20bcb7-c7d6-4731-b9f3-55d654c9a694)
+
 
 ## 📖 **Comprehensive Guide & Tutorial**  
 
@@ -172,23 +173,3 @@ Contributions are welcome! If you find any issues or want to improve the project
 3. Commit changes (`git commit -m "Your message"`)  
 4. Push to GitHub (`git push origin feature-name`)  
 5. Open a **Pull Request** 🚀  
-
----
-
-## 🛠️ **Author & Community**  
-
-This project is crafted by **[Harshhaa](https://github.com/NotHarshhaa)** 💡.  
-I’d love to hear your feedback! Feel free to share your thoughts.  
-
-📧 **Connect with me:**
-
-- **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)  
-- **Blog**: [ProDevOpsGuy](https://blog.prodevopsguy.xyz)  
-- **Telegram Community**: [Join Here](https://t.me/prodevopsguy)  
-- **LinkedIn**: [Harshhaa Vardhan Reddy](https://www.linkedin.com/in/harshhaa-vardhan-reddy/)  
-
----
-
-### 📢 **Stay Connected**  
-
-![Follow Me](https://imgur.com/2j7GSPs.png)
