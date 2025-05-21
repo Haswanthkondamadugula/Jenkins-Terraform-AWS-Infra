@@ -118,7 +118,7 @@ Before using this Terraform setup, ensure you have:
 
 Run the following command to clone the repository:  
 ```bash
-git clone https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra.git
+git clone https://github.com/Haswanthkondamadugula/Jenkins-Terraform-AWS-Infra.git
 cd Jenkins-Terraform-AWS-Infra
 ```  
 
