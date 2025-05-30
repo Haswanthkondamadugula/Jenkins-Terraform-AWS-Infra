@@ -6,7 +6,7 @@
 ## 📖 **Comprehensive Guide & Tutorial**  
 
 For a step-by-step explanation of this project, visit:  
-🔗 [**Read the Full Article Here**](https://blog.prodevopsguy.xyz/aws-with-terraform-and-jenkins-pipeline)  
+🔗 [**Read the Full Article Here**](https://clouddevops13.hashnode.dev/optimizing-jenkins-log-storage-with-amazon-s3-and-glacier-a-cost-efficient-solution)  
 
 ---
 
